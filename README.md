@@ -14,3 +14,7 @@ This project's goal is:
 - Make it beautiful sound (Separate sound generator like SuperCollider)
 - Make it more extensible (Easy plugin system, Package management system)
 - Buttery included
+
+## Status
+
+_**[Planning]**_
