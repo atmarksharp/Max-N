@@ -15,9 +15,9 @@ This project's goal is:
 - Make it more extensible (Easy plugin system, Package management system)
 - Buttery included
 
-## Wiki
+## Detail
 
-[Wiki](wiki)
+see [Wiki](https://github.com/atmarksharp/Max-N/wiki)
 
 ## Status
 
