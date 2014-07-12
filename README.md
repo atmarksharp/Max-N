@@ -1,7 +1,5 @@
 # Max-N
 
-![Max-N.png](pic/Max-N.png)
-
 **Next generation Max dialect**
 
 ## About
