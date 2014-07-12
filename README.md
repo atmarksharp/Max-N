@@ -1,5 +1,7 @@
 # Max-N
 
+<img alt="Max-N.png" src="pic/Max-N.png" width="300px"/>
+
 Next generation Max dialect
 
 ## About
