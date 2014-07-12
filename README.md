@@ -15,6 +15,10 @@ This project's goal is:
 - Make it more extensible (Easy plugin system, Package management system)
 - Buttery included
 
+## Wiki
+
+[Wiki](wiki)
+
 ## Status
 
 _**[Planning]**_
