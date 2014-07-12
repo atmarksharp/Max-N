@@ -1,6 +1,6 @@
 # Max-N
 
-<img alt="Max-N.png" src="pic/Max-N.png" width="300px"/>
+![Max-N.png](pic/Max-N.png)
 
 **Next generation Max dialect**
 
