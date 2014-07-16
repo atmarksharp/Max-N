@@ -19,4 +19,4 @@ see [Wiki](https://github.com/atmarksharp/Max-N/wiki)
 
 ## Status
 
-_**[Planning]**_
+<s>[Planning]</s> ->  _**[Designing]**_
